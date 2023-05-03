@@ -1,0 +1,9 @@
+1、conda create --name py38 python=3.8
+
+2、pip install opencv-python==4.4.0.44   pillow==8.2 numpy==1.21 matplotlib scipy pandas scikit-learn   tqdm  imutils PyYAML    seaborn protobuf==3.20 chardet cchardet   -i https://pypi.douban.com/simple/
+
+3、pip install https://download.pytorch.org/whl/cu110/torch-1.7.1%2Bcu110-cp38-cp38-win_amd64.whl
+
+4、pip install https://download.pytorch.org/whl/cu110/torchvision-0.8.2%2Bcu110-cp38-cp38-win_amd64.whl
+
+5、pip install opencv-python==4.4.0.44  pillow==8.2 numpy==1.21 matplotlib scipy pandas scikit-learn   tqdm  imutils PyYAML  tensorboard  seaborn  psutil thop ipython pycocotools-windows gitpython chardet cchardet    -i https://pypi.douban.com/simple/
